@@ -1,0 +1,89 @@
+.delete-account {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .delete-account .div {
+    background-color: #ffffff;
+    width: 927px;
+    height: 985px;
+    position: relative;
+  }
+  
+  .delete-account .it-s-a-bummer-to-see {
+    position: absolute;
+    width: 827px;
+    top: 298px;
+    left: 50px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000066;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .delete-account .overlap-group {
+    width: 927px;
+    left: 0;
+    background-color: #000066;
+    position: absolute;
+    height: 239px;
+    top: 0;
+  }
+  
+  .delete-account .text-wrapper {
+    position: absolute;
+    width: 472px;
+    top: 32px;
+    left: 39px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .delete-account .overlap {
+    width: 818px;
+    left: 39px;
+    position: absolute;
+    height: 239px;
+    top: 0;
+  }
+  
+  .delete-account .text-wrapper-2 {
+    position: absolute;
+    width: 714px;
+    top: 145px;
+    left: 0;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .delete-account .SF-NEGATIVO-TRANSP {
+    position: absolute;
+    width: 269px;
+    height: 239px;
+    top: 0;
+    left: 549px;
+    object-fit: cover;
+  }
+  
+  .delete-account .group {
+    position: absolute;
+    width: 322px;
+    height: 341px;
+    top: 601px;
+    left: 275px;
+    object-fit: cover;
+  }
