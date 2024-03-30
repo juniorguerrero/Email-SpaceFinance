@@ -1,0 +1,115 @@
+.resent-code-welcome {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .resent-code-welcome .div {
+    background-color: #ffffff;
+    width: 927px;
+    height: 1181px;
+    position: relative;
+  }
+  
+  .resent-code-welcome .overlap {
+    width: 665px;
+    height: 205px;
+    top: 22px;
+    position: absolute;
+    left: 133px;
+  }
+  
+  .resent-code-welcome .SF-POSITIVO-TRANSP {
+    position: absolute;
+    width: 133px;
+    height: 133px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .resent-code-welcome .text-wrapper {
+    position: absolute;
+    width: 654px;
+    top: 132px;
+    left: 11px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resent-code-welcome .overlap-group {
+    width: 695px;
+    height: 629px;
+    top: 340px;
+    position: absolute;
+    left: 133px;
+  }
+  
+  .resent-code-welcome .if-you-didn-t {
+    position: absolute;
+    width: 654px;
+    top: 0;
+    left: 11px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resent-code-welcome .span {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .resent-code-welcome .text-wrapper-2 {
+    font-weight: 700;
+  }
+  
+  .resent-code-welcome .group {
+    position: absolute;
+    width: 695px;
+    height: 426px;
+    top: 203px;
+    left: 0;
+  }
+  
+  .resent-code-welcome .p {
+    position: absolute;
+    width: 296px;
+    top: 252px;
+    left: 144px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #6f7077;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resent-code-welcome .text-wrapper-3 {
+    position: absolute;
+    width: 310px;
+    top: 252px;
+    left: 489px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #2183e8;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

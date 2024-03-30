@@ -1,0 +1,99 @@
+.resed-forgot {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .resed-forgot .div {
+    background-color: #ffffff;
+    width: 927px;
+    height: 997px;
+    position: relative;
+  }
+  
+  .resed-forgot .group {
+    position: absolute;
+    width: 295px;
+    height: 217px;
+    top: 45px;
+    left: 316px;
+    object-fit: cover;
+  }
+  
+  .resed-forgot .text-wrapper {
+    position: absolute;
+    width: 927px;
+    top: 291px;
+    left: 0;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resed-forgot .this-code-is-to {
+    position: absolute;
+    width: 703px;
+    top: 394px;
+    left: 112px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resed-forgot .span {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .resed-forgot .text-wrapper-2 {
+    font-weight: 600;
+  }
+  
+  .resed-forgot .text-wrapper-3 {
+    position: absolute;
+    width: 310px;
+    top: 537px;
+    left: 318px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #2183e8;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resed-forgot .p {
+    position: absolute;
+    width: 703px;
+    top: 648px;
+    left: 112px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .resed-forgot .SF-POSITIVO-TRANSP {
+    position: absolute;
+    width: 193px;
+    height: 193px;
+    top: 770px;
+    left: 367px;
+    object-fit: cover;
+  }
