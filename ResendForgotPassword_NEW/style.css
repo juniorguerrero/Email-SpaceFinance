@@ -1,0 +1,111 @@
+.forgot-password-new {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .forgot-password-new .div {
+    background-color: #ffffff;
+    width: 927px;
+    height: 737px;
+    position: relative;
+  }
+  
+  .forgot-password-new .overlap-group {
+    position: absolute;
+    width: 679px;
+    height: 145px;
+    top: 69px;
+    left: 112px;
+  }
+  
+  .forgot-password-new .text-wrapper {
+    position: absolute;
+    width: 679px;
+    top: 72px;
+    left: 0;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .forgot-password-new .SF-POSITIVO-SVG {
+    position: absolute;
+    width: 71px;
+    height: 73px;
+    top: 0;
+    left: 0;
+  }
+  
+  .forgot-password-new .this-code-is-to {
+    position: absolute;
+    width: 703px;
+    top: 233px;
+    left: 112px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .forgot-password-new .span {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .forgot-password-new .text-wrapper-2 {
+    font-weight: 700;
+  }
+  
+  .forgot-password-new .text-wrapper-3 {
+    position: absolute;
+    width: 310px;
+    top: 334px;
+    left: 112px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #2183e8;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .forgot-password-new .p {
+    position: absolute;
+    width: 703px;
+    top: 405px;
+    left: 112px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .forgot-password-new .text-wrapper-4 {
+    position: absolute;
+    width: 437px;
+    top: 592px;
+    left: 112px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #918d8d;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
