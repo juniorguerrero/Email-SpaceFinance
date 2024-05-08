@@ -1,0 +1,131 @@
+.code-welcome-new {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .code-welcome-new .div {
+    background-color: #ffffff;
+    width: 927px;
+    height: 974px;
+    position: relative;
+  }
+  
+  .code-welcome-new .SF-POSITIVO-TRANSP {
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    top: 48px;
+    left: 95px;
+    object-fit: cover;
+  }
+  
+  .code-welcome-new .text-wrapper {
+    position: absolute;
+    width: 654px;
+    top: 125px;
+    left: 95px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .code-welcome-new .p {
+    position: absolute;
+    width: 356px;
+    top: 216px;
+    left: 95px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #6f7077;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .code-welcome-new .text-wrapper-2 {
+    position: absolute;
+    width: 310px;
+    top: 265px;
+    left: 95px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #2183e8;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .code-welcome-new .remember-the {
+    position: absolute;
+    width: 367px;
+    top: 319px;
+    left: 95px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #6f7077;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .code-welcome-new .span {
+    font-weight: 600;
+  }
+  
+  .code-welcome-new .text-wrapper-3 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #6f7077;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .code-welcome-new .if-you-didn-t {
+    position: absolute;
+    width: 654px;
+    top: 375px;
+    left: 95px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .code-welcome-new .text-wrapper-4 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .code-welcome-new .text-wrapper-5 {
+    font-weight: 700;
+  }
+  
+  .code-welcome-new .text-wrapper-6 {
+    position: absolute;
+    width: 437px;
+    top: 745px;
+    left: 95px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #5c5a5a;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

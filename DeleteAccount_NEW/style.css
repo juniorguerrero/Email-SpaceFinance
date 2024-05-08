@@ -1,0 +1,95 @@
+.delete-account-new {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .delete-account-new .div {
+    background-color: #ffffff;
+    width: 927px;
+    height: 657px;
+    position: relative;
+  }
+  
+  .delete-account-new .overlap-group {
+    position: absolute;
+    width: 927px;
+    height: 186px;
+    top: 0;
+    left: 0;
+    background-color: #000066;
+  }
+  
+  .delete-account-new .text-wrapper {
+    position: absolute;
+    width: 855px;
+    top: 32px;
+    left: 39px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .delete-account-new .text-wrapper-2 {
+    position: absolute;
+    width: 714px;
+    top: 90px;
+    left: 39px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .delete-account-new .overlap {
+    position: absolute;
+    width: 827px;
+    height: 288px;
+    top: 222px;
+    left: 39px;
+  }
+  
+  .delete-account-new .it-s-a-bummer-to-see {
+    position: absolute;
+    width: 827px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000066;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .delete-account-new .SF-POSITIVO-TRANSP {
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    top: 220px;
+    left: 10px;
+    object-fit: cover;
+  }
+  
+  .delete-account-new .p {
+    position: absolute;
+    width: 437px;
+    top: 528px;
+    left: 49px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #918d8d;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
